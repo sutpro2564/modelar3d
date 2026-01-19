@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stive
+* source:	https://sketchfab.com/3d-models/stive-2db2cd89a7174f8a86b08f0a6dc954b0
+* author:	wowiswow (https://sketchfab.com/wowiswow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stive" (https://sketchfab.com/3d-models/stive-2db2cd89a7174f8a86b08f0a6dc954b0) by wowiswow (https://sketchfab.com/wowiswow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
